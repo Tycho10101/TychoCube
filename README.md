@@ -1,2 +1,2 @@
 # TychoCube
-ClassiCube Mod
+ClassiCube Mod (wip)
