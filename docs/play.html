@@ -6,7 +6,7 @@
   var Module = {
     preRun: [],
     postRun: [],
-    arguments: [ "TychoCubePlayer" ],
+    arguments: [ {username} ],
     print: function(text) {
       if (arguments.length > 1) text = Array.prototype.slice.call(arguments).join(' ');
       console.log(text);
